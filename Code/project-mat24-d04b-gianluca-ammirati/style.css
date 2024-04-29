@@ -1,0 +1,52 @@
+.front1 {
+  border: 5px solid blue;
+  background-color: silver;
+}
+.front2 {
+  border: 5px solid red;
+  background-color: azure;
+}
+.front3 {
+  border: 5px solid green;
+  background-color: beige;
+}
+h1 {
+  color: gold;
+}
+.front1 {
+  text-align: center;
+}
+.front2 {
+  text-align: center;
+}
+.front3 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+.front1 {
+  color: red;
+}
+.front2 {
+  color: blueviolet;
+}
+.front3 {
+  color: maroon;
+}
+body {
+  background-color: aquamarine;
+}
+.front1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.front2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.front3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
